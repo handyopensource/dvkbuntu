@@ -10,7 +10,7 @@ système d'exploitation base linux pour personne en situation d'handicap
 [![Download DVKBuntu](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/dvkbuntu/files/latest/download)
   
   
-[La site web de dvkbuntu](https://www.dvkbuntu.org/)
+[Le site web de dvkbuntu](https://www.dvkbuntu.org/)
 
 ![logo dvkbuntu](https://dvkbuntu.org/images/logo_clair.png)
 
