@@ -12,7 +12,7 @@ système d'exploitation base linux pour personne en situation d'handicap
   
 [Le site web de dvkbuntu](https://www.dvkbuntu.org/)
 
-![logo dvkbuntu](https://github.com/handyopensource/dvkbuntu/raw/master/72949486_402676180642550_8589687223358586880_n.jpg=650x650)
+![logo dvkbuntu](./72949486_402676180642550_8589687223358586880_n.jpg =650x650)
 
   
 L'INFORMATIQUE POUR TOUS   
