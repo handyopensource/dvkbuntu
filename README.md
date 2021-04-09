@@ -7,7 +7,7 @@ système d'exploitation base linux pour personne en situation d'handicap
 [![Download DVKBuntu](DLButton.png)](https://www.handy-open-source.org/)
   
   
-[Le site web de dvkbuntu](https://www.handy-open-source.org/)
+[Le site web de Handy Open Source](https://www.handy-open-source.org/)
 
 <img src="https://github.com/handyopensource/dvkbuntu/raw/master/logo_Logo C Blanc.png" alt="logo dvkbuntu" width="600"/>
   
