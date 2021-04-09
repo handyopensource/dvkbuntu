@@ -4,7 +4,7 @@
 système d'exploitation base linux pour personne en situation d'handicap  
 
   
-[![Download DVKBuntu](https://a.fsdn.com/con/app/sf-download-button)](https://www.handy-open-source.org/)
+[![Download DVKBuntu](DLButton.png)](https://www.handy-open-source.org/)
   
   
 [Le site web de dvkbuntu](https://www.handy-open-source.org/)
