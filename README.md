@@ -1,5 +1,5 @@
 # dvkbuntu
-### La distribution Linux de l'association Handy OpenSource
+### La distribution Linux de l'association Handy Open Source
   
 système d'exploitation base linux pour personne en situation d'handicap  
 
