@@ -9,7 +9,7 @@ système d'exploitation base linux pour personne en situation d'handicap
   
 [Le site web de dvkbuntu](https://www.handy-open-source.org/)
 
-<img src="https://github.com/handyopensource/dvkbuntu/raw/master/72949486_402676180642550_8589687223358586880_n.jpg" alt="logo dvkbuntu" width="600"/>
+<img src="https://github.com/handyopensource/dvkbuntu/raw/master/logo_Logo C Blanc.png" alt="logo dvkbuntu" width="600"/>
   
 L'INFORMATIQUE POUR TOUS   
    
